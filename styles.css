@@ -1,0 +1,19 @@
+
+div{
+   color: black; background-color: antiquewhite;
+}
+img{
+   position: absolute; right: 70px; top: 50px;
+}
+.head{
+   font-style: italic; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#pic{
+   border-radius: 10em;
+}
+.diff{
+   background-color: rgb(206, 145, 101); border-radius: 10px;
+}
+#submit{
+   border-radius: 10em; color: rgb(103, 48, 9);
+}
